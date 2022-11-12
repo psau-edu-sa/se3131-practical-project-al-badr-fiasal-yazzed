@@ -1,24 +1,43 @@
+# Formal specification using Petri Nets
+
+using petri nets we formally specify the following system:
+
+we have a traffic crossroads that organize 4 different lanes
+
+only certain traffic light can become green at the same time and the rest of traffic lights are red.
+
+the traffic lights must work with the order mentioned in the picture.
+
+The two traffic lights at lane 1 can be green and the rest are red.
+
+The two traffic lights at lane 2 can be green and the rest are red.
+
+The traffic light at lane 3 can be green and the rest are red.
+
+The traffic light at lane 4 can be green and the rest are red.
+
+The traffic light at lane 5 allows cars to return when it is not conflict with another traffic light.
 
 
-باستخدام شبكات بتري، قمنا بتوصيف رسمي للنظام التالي
-لدينا تقاطع مرور ينظم سير أربع مسارات مختلفة
-يمكن فقط إلشارات محددة أن تكون خضراء في وقت محدد وبقية االشارات حمراء اإلشارات
-يجب أن تعمل بشكل مرتب حسب الترقيم الظاهر في الصورة والذي يمكن وصفه كالتالي
-اإلشارتين في المسارين 1 يمكن أن يكونان خضراء في نفس الوقت وبقية اإلشارات حمراء.
-اإلشارتين في المسارين 2 يمكن أن يكونان خضراء في نفس الوقت وبقية اإلشارات حمراء.
-االشارة في المسار 3 يمكن أن تكون خضراء وبقية اإلشارات حمراء.
-االشارة في المسار 4 يمكن أن تكون خضراء وبقية اإلشارات حمراء.
-يجب أن تعمل االشارات حسب الترتيب أعاله.
-اإلشارات التي في المسار 5 تسمح للسيارات أن تعكس السير عندما يكون هذا ال يتعارض من
-اشارة أخرى.
+
+
+## Picture
+The system we formally specify 
 
 https://user-images.githubusercontent.com/118053053/201475362-89eb0452-2693-475b-8231-06a6fb11e399.png
 
-ملف التوصيف:
-https://drive.google.com/file/d/1o7sceQE1egX_Ush28-ZjwzdOHVjqsAVI/view?usp=share_link
 
-الاداة التي تسمح بعمل محاكاة للنظام:
+## Tools
+A tool that allows you to simulate the system
+
 https://apo.adrian-jagusch.de/
 
-صورة للتوصيف: 
+## Open a file
+The Formal specification download link
+
+https://drive.google.com/file/d/1o7sceQE1egX_Ush28-ZjwzdOHVjqsAVI/view?usp=share_link
+
+## Petri Nets picture
+
 https://user-images.githubusercontent.com/118053053/201475593-0e695d55-960e-4535-9664-ff71b244e44f.png
+
