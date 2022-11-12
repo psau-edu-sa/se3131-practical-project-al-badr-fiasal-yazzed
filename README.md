@@ -19,3 +19,6 @@ https://drive.google.com/file/d/1o7sceQE1egX_Ush28-ZjwzdOHVjqsAVI/view?usp=share
 
 الاداة التي تسمح بعمل محاكاة للنظام:
 https://apo.adrian-jagusch.de/
+
+صورة للتوصيف: 
+https://user-images.githubusercontent.com/118053053/201475593-0e695d55-960e-4535-9664-ff71b244e44f.png
