@@ -32,7 +32,7 @@ A tool that allows you to simulate the system
 
 https://apo.adrian-jagusch.de/
 
-## Open a file
+## Open file
 The Formal specification download link
 
 https://drive.google.com/file/d/1o7sceQE1egX_Ush28-ZjwzdOHVjqsAVI/view?usp=share_link
