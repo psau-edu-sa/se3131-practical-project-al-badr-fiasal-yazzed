@@ -2,13 +2,19 @@
 
 using petri net we formally specify the following system:
 
-we have a traffic crossroads that organize 4 different lanes
+we have a traffic crossroads that organize 4 different lanes,
 only certain traffic light can become green at the same time and the rest of traffic lights are red.
-the traffic lights must work with the order mentioned in the picture.
+
+The traffic lights must work with the order mentioned in the picture.
+
 The two traffic lights at lane 1 can be green and the rest are red.
+
 The two traffic lights at lane 2 can be green and the rest are red.
+
 The traffic light at lane 3 can be green and the rest are red.
+
 The traffic light at lane 4 can be green and the rest are red.
+
 The traffic light at lane 5 allows cars to return when it is not conflict with another traffic light.
 
 
@@ -20,10 +26,12 @@ The system we formally specify
 
 ## Tools
 A tool that allows you to simulate the system
+
 https://apo.adrian-jagusch.de/
 
-## Open a file
+## Open file
 The Formal specification download link
+
 https://drive.google.com/file/d/1o7sceQE1egX_Ush28-ZjwzdOHVjqsAVI/view?usp=share_link
 
 ## Petri Nets picture
